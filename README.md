@@ -7,5 +7,6 @@ Clone repository and open index.html in any browser.
 
 ### Built With:
 - [Open Weather Map API](http://openweathermap.org/)
+- [Meteocons Font Icons](http://www.alessioatzeni.com/meteocons/)
+- HTML5 Geolocation API
 - jQuery
-- [Meteocons Font Icons] (http://www.alessioatzeni.com/meteocons/)
