@@ -1,6 +1,5 @@
 # Weather App
-
-## Application gets user's geolocation and returns the weather for that location.
+Application gets user's geolocation and returns the weather for that location.
 
 ## To Run:
 Clone repository and open index.html in any browser.
